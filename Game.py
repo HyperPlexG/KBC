@@ -35,7 +35,7 @@ def ask_question(lvl):
   """ Generates a number and gets the question from the database """
   to_return = "\n " + intro_question(lvl) + "\n "
   to_return += "=" * (len(to_return) - 3) + "\n "
-  qnum = int (random.random() * 10)
+  qnum = random.randint(0, 4)
   
   global q
   q = Db.get_question(lvl, qnum)
@@ -60,11 +60,11 @@ def check_answer(lvl):
   
   elif (answer == "help"): # If 'help' was entered
     print (" ")
-    if (help_50_avail): print (" ")*5 + help_50
-    if (help_friend_avail): print (" ")*5 + help_friend
-    if (help_audience_avail): print (" ")*5 + help_audience
+    if (help_50_avail): print (" "*5 + help_50)
+    if (help_friend_avail): print (" "*5 + help_friend)
+    if (help_audience_avail): print (" "*5 + help_audience)
     if not (help_50_avail or help_friend_avail or help_audience_avail): # If all lifelines were used
-      print ("\n") + (" ")*5 + "You have no lifelines available..." 
+      print ("\n" + (" "*5) + "You have no lifelines available...")
     check_answer(lvl)
 
   elif (answer == "friend"):
@@ -72,14 +72,14 @@ def check_answer(lvl):
       help_friend_avail = False
       if (random.random() < 0.7): # There is a ~70% chance that friend's guess will be the right one
         lets_wait("Calling your friend", 4)
-        print ("\n Your friend thinks the correct answer is %s.") %correct_answer
+        print ("\n Your friend thinks the correct answer is %s." % correct_answer) 
         check_answer(lvl)
       else: # In case two answers were eliminated by 50:50
         while True:
           i = int (random.random()*4 + 1)
           if (q[i] != "" and q[i] != correct_answer):
             lets_wait("Calling your friend", 4)
-            print ("\n Your friend thinks the correct answer is %s.") %correct_answer
+            print ("\n Your friend thinks the correct answer is %s." % correct_answer) 
             check_answer(lvl)
     else:
       print ("\n You already used this lifeline. Enter 'help' to see what other lifelines are left.")

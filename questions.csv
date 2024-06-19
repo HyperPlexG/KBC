@@ -1,0 +1,70 @@
+0,What does HTML stand for?,Hyper Trainer Marking Language,Hyper Text Markup Language,Hyper Text Marketing Language,Hyper Text Markup Leveler,Hyper Text Markup Language
+0,What is the main function of a web browser?,To edit images,To browse the internet,To play music,To compile code,To browse the internet
+0,Which company developed the iPhone?,Microsoft,Google,Apple,Amazon,Apple
+0,What is the basic unit of information in computing?,Byte,Bit,Pixel,Node,Bit
+0,Which social media platform is known for its 'Like' button?,Twitter,Instagram,LinkedIn,Facebook,Facebook
+1,Which programming language is known for its snake logo?,Ruby,Python,Java,C++,Python
+1,What does CPU stand for?,Central Processing Unit,Computer Personal Unit,Central Print Unit,Control Processing Unit,Central Processing Unit
+1,What company is known for the Windows operating system?,Apple,Microsoft,IBM,Google,Microsoft
+1,What is the name of Microsofts cloud computing service?,Azure,AWS,Google Cloud,IBM Cloud,Azure
+1,What technology is used to make telephone calls over the Internet?,VoIP,LTE,ISDN,DSL,VoIP
+2,Which company created the Android operating system?,Apple,Microsoft,Google,IBM,Google
+2,What does USB stand for?,Universal System Bus,Universal Serial Bus,Unique Serial Bus,Universal Service Bus,Universal Serial Bus
+2,Which device is primarily used for pointing and clicking?,Keyboard,Monitor,Mouse,Printer,Mouse
+2,What is the name of the first electronic general-purpose computer?,ENIAC,UNIVAC,IBM PC,Altair 8800,ENIAC
+2,Which company is known for its search engine?,Yahoo,Google,Bing,DuckDuckGo,Google
+3,What is the most popular programming language for web development?,C++,Python,JavaScript,PHP,JavaScript
+3,What is the term for a network security system that monitors and controls incoming and outgoing network traffic?,Router,Firewall,Modem,Switch,Firewall
+3,Which company developed the video game 'Minecraft'?,Electronic Arts,Mojang,Ubisoft,Blizzard Entertainment,Mojang
+3,Which protocol is used for secure communication over a computer network?,HTTP,FTP,HTTPS,SMTP,HTTPS
+3,What does SQL stand for?,Structured Query Language,Sequential Query Language,Simple Query Language,Structured Question Language,Structured Query Language
+4,Who is known as the father of the computer?,Bill Gates,Charles Babbage,Steve Jobs,Alan Turing,Charles Babbage
+4,What is the primary function of RAM in a computer?,To store permanent data,To store temporary data,To process instructions,To manage network traffic,To store temporary data
+4,Which language is primarily used for iOS app development?,Kotlin,Swift,Java,Python,Swift
+4,What does LAN stand for?,Long Area Network,Local Area Network,Light Area Network,Line Area Network,Local Area Network
+4,Which of these is an example of an open-source operating system?,Windows,macOS,Linux,Android,Linux
+5,Which company is known for creating the first graphical web browser?,Netscape,Microsoft,Google,Apple,Netscape
+5,What year was the World Wide Web introduced to the public?,1985,1990,1991,1993,1991
+5,What is the most popular open-source version control system?,SVN,Mercurial,Git,CVS,Git
+5,Which programming language is primarily used for artificial intelligence?,Java,Python,C#,Ruby,Python
+5,What does DNS stand for?,Dynamic Name System,Dynamic Network Service,Domain Name System,Domain Network Service,Domain Name System
+6,Which of these is a version of Linux?,Windows,Ubuntu,macOS,Android,Ubuntu
+6,What does HTTP stand for?,HyperText Transfer Protocol,HyperText Transmission Protocol,HyperText Transfer Program,HyperText Transmission Program,HyperText Transfer Protocol
+6,Which company developed the Java programming language?,Microsoft,Apple,Sun Microsystems,IBM,Sun Microsystems
+6,What is the primary protocol used to send email?,HTTP,FTP,SMTP,IMAP,SMTP
+6,Which cloud computing platform is provided by Amazon?,Azure,Google Cloud,AWS,IBM Cloud,AWS
+7,What does GUI stand for?,Graphical User Interface,Graphical Usage Interface,General User Interface,General Usage Interface,Graphical User Interface
+7,Which programming language is known for its use in data science?,C++,R,Swift,PHP,R
+7,What is the name of the company that owns the Android operating system?,Google,Apple,Microsoft,Samsung,Google
+7,What does GPU stand for?,Graphics Processing Unit,General Processing Unit,Graphics Power Unit,General Power Unit,Graphics Processing Unit
+7,What is the primary markup language used for creating web pages?,HTML,CSS,JavaScript,PHP,HTML
+8,Which company is known for the creation of the Linux kernel?,Microsoft,Apple,IBM,Linus Torvalds,Linus Torvalds
+8,What is the name of the cloud computing platform developed by Google?,Azure,Google Cloud Platform,AWS,Oracle Cloud,Google Cloud Platform
+8,Which software is used to view websites?,Word Processor,Spreadsheet,Browser,Database,Browser
+8,Which of the following is a type of non-volatile memory?,RAM,ROM,Cache,Register,ROM
+8,What does IoT stand for?,Internet of Things,Internet of Technology,Internet of Tools,Internet of Toys,Internet of Things
+9,Which language is primarily used for Android app development?,Swift,Kotlin,Java,C#,Java
+9,What is the name of Apple's personal assistant?,Cortana,Alexa,Siri,Google Assistant,Siri
+9,What type of software is used for creating spreadsheets?,Database,Word Processor,Spreadsheet,Presentation,Spreadsheet
+9,Which of these is a popular cloud storage service?,Dropbox,WordPress,Apache,MySQL,Dropbox
+9,Which company developed the iOS operating system?,Google,Microsoft,Apple,IBM,Apple
+10,What does VR stand for?,Virtual Reality,Virtual Resource,Virtual Response,Virtual Router,Virtual Reality
+10,What is the main purpose of a firewall?,To connect networks,To protect against malware,To provide WiFi,To display web pages,To protect against malware
+10,What does SSL stand for?,Secure Socket Layer,Secure Software Layer,Secure System Link,Secure System Layer,Secure Socket Layer
+10,Which of the following is a relational database management system?,MySQL,NoSQL,HDFS,XML,MySQL
+10,Which of these programming languages is primarily used for scientific computing?,JavaScript,Fortran,Swift,PHP,Fortran
+11,What does AI stand for?,Automated Interface,Advanced Integration,Artificial Intelligence,Automated Intelligence,Artificial Intelligence
+11,What is the main programming language used in Apple's development environment?,Java,Objective-C,Swift,C#,Swift
+11,Which of these is a front-end web development framework?,Django,Laravel,React,Flask,React
+11,Which company developed the video game console 'PlayStation'?,Nintendo,Sony,Microsoft,Sega,Sony
+11,What is the purpose of an API?,To secure data,To provide a user interface,To allow different systems to communicate,To manage databases,To allow different systems to communicate
+12,What does HTTP stand for?,HyperText Transfer Protocol,HyperText Transmission Protocol,HyperText Transfer Program,HyperText Transmission Program,HyperText Transfer Protocol
+12,What is the primary language used for Android app development?,Swift,Kotlin,Java,C#,Java
+12,What technology is primarily used to create web applications?,HTML,JavaScript,CSS,Python,JavaScript
+12,What does DNS stand for?,Dynamic Name System,Dynamic Network Service,Domain Name System,Domain Network Service,Domain Name System
+12,Which language is primarily used for statistical analysis?,Python,Java,R,Ruby,R
+13,What is the main purpose of a database index?,To store data,To ensure data integrity,To speed up query processing,To maintain database connections,To speed up query processing
+13,What does JSON stand for?,JavaScript Object Notation,Java Standard Output Notation,JavaScript Oriented Notation,Java Serialized Object Notation,JavaScript Object Notation
+13,What is the key component of a computer's operating system that manages hardware and software resources?,Kernel,BIOS,Cache,Firmware,Kernel
+13,What does SaaS stand for?,Software as a Service,Storage as a Service,Security as a Service,Support as a Service,Software as a Service
+13,Which database model uses tables to organize data?,Hierarchical,Network,Relational,Object-oriented,Relational
